@@ -1,6 +1,6 @@
 package education.cursor;
 
-public class WrongLoginException extends Exception{
+public class WrongLoginException extends Exception {
 
     public WrongLoginException() {
     }
